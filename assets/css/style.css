@@ -40,6 +40,9 @@ i {
 .hour {
     text-align: right;
     color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     padding: 20px;  
     border-top: solid 1px black;
 }
